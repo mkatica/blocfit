@@ -130,6 +130,11 @@ h2 {
   }
 }
 
+#monthlyGoal, #annualGoal, #weeklyGoal {
+  display: block;
+  margin: 0 auto;
+}
+
 footer {
   padding:2em 0 1em;
   p {
